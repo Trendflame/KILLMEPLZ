@@ -18,8 +18,6 @@ import java.util.Scanner;
                 {
                     Scanner sc = new Scanner(System.in);
                     int number = sc.nextInt();
-                    String killme[] = new String[100]
-                    String string = Integer.toString(number);
                     System.out.println("What? You're type " + number + "???");
                     System.out.print("Shut up!");
                 }
